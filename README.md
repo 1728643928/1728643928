@@ -11,7 +11,7 @@ Welcome to my Github page! I am Lina and I am currently Learning NLP and RL!
  
 #### 🌱 Things I am currently working on 🌱 : 
 - Taking online courses about Data Science and Machine Learning 
-- [My website](http://naw.xn--6qq986b3xl/) 🚀 *coming soon*
+- [My website](https://naw.xn--6qq986b3xl/) 🚀 *coming soon*
  
  
 #### ⚡ Things recent ones I'm interested in ⚡ : 
@@ -40,4 +40,4 @@ Welcome to my Github page! I am Lina and I am currently Learning NLP and RL!
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/broccolijs/broccolijs-ar21.svg"></code>
 </p>
 <sub>Credits to: <br/>[Stable Diffusion](https://stablediffusionweb.com) for the wonderfull [picture](https://avatars.githubusercontent.com/u/78271184?v=4)</sub>
-If you want to know more, please refer to the my [website](http://www.naw.xn--6qq986b3xl/).
+If you want to know more, please refer to the my [website](https://www.naw.xn--6qq986b3xl/).
