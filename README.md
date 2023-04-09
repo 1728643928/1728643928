@@ -2,7 +2,7 @@
  
  
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/1728643928)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](love@cherish.pub)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](qq1728643928@gmail.com)
  
 Welcome to my Github page! I am Lina and I am currently Learning NLP and RL!  
  
