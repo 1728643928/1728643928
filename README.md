@@ -1,43 +1,35 @@
-### Hi there 👋 This is bendan ！✨ 
- 
- 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/1728643928)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](love@cherish.pub)
- 
-Welcome to my Github page! I am Lina and I am currently Learning NLP and RL!  
- 
-<img align="right" alt="img" src="https://avatars.githubusercontent.com/u/78271184?v=4" width="50%" height="auto" />
- 
- 
-#### 🌱 Things I am currently working on 🌱 : 
-- Taking online courses about Data Science and Machine Learning 
-- [My website](https://naw.xn--6qq986b3xl/) 🚀 *coming soon*
- 
- 
-#### ⚡ Things recent ones I'm interested in ⚡ : 
-- Chat GPT
-- Stable Diffusion
-- Image generation
-- Layout2image
-- pix2pix
-#### 🌻 I am studying 🌻
-- IELTS
-- French
-- German
-#### :computer: Programming languages and tools :computer: : 
-<p>
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=1728643928&show_icons=true&hide_border=true" />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
-<br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
-<br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/broccolijs/broccolijs-ar21.svg"></code>
+<p align="center">
+  <img src="./assets/header.svg" width="100%" alt="bendan. Build small. Keep it open." />
 </p>
-<sub>Credits to: <br/>[Stable Diffusion](https://stablediffusionweb.com) for the wonderfull [picture](https://avatars.githubusercontent.com/u/78271184?v=4)</sub>
-If you want to know more, please refer to the my [website](https://www.naw.xn--6qq986b3xl/).
+
+### Hi, I'm bendan — 撒谎的笨蛋
+
+I tinker with streaming tools, self-hosted software, and the space where hardware meets code.
+
+把遇到的小问题，做成可以复用的小工具。
+
+[Explore my repositories](https://github.com/1728643928?tab=repositories) · [Email](mailto:love@cherish.pub)
+
+---
+
+## Featured project
+
+### [GPU Encoder Bridge for OBS](https://github.com/1728643928/obs-gpu-encoder)
+
+**Your rendering GPU and encoding GPU don't have to be the same.**
+
+Choose an AMD encoder by its actual GPU name while keeping OBS on your rendering GPU. Use OBS's own streaming controls, with a four-language Windows installer and complete, forkable source.
+
+**Windows x64 · OBS 33.x · AMD AMF · Preview**
+
+[Download & releases](https://github.com/1728643928/obs-gpu-encoder/releases) · [Source](https://github.com/1728643928/obs-gpu-encoder) · [中文说明](https://github.com/1728643928/obs-gpu-encoder/blob/main/docs/README.zh-CN.md) · [Contribute](https://github.com/1728643928/obs-gpu-encoder/blob/main/CONTRIBUTING.md)
+
+---
+
+## Things I like exploring
+
+- **Streaming & hardware** — OBS, GPU encoding, and making the pieces work together.
+- **Self-hosting & networking** — practical setups and small experiments.
+- **AI & creative tools** — ideas that are worth trying and useful enough to keep.
+
+<sub>Small projects. Public source. Room for someone else to carry them forward.</sub>
